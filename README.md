@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsuyeon0809&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
+<div align="center">
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsuyeon0809&langs_count=10&layout=compact)](https://github.com/jogilsang/jogilsang)﻿
+ </div>
 
 
 
