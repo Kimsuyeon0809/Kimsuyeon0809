@@ -52,8 +52,6 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsuyeon0809&langs_count=10&layout=compact&thems=light)](https://github.com/Kimsuyeon0809)﻿
-
 
 
 
