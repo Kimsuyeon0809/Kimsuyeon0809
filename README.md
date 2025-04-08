@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white?style=for-the-badge&logo=JavaScript&logoColor=white)
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto8&height=150&section=footer" />
 
