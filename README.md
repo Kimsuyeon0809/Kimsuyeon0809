@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsuyeon0809)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white?style=for-the-badge&logo=JavaScript&logoColor=white)
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient8&height=150&section=footer" />
 
