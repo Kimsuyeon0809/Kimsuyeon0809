@@ -39,8 +39,9 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://whip-persimmon-a86.notion.site/paper-review-7d08ed2bd5c849498aa36ccbdcadc02d?pvs=4" target="_blank">
 ![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white?style=for-the-badge&logo=JavaScript&logoColor=white)
-</div>
 </a>
+</div>
+
 ## Contact
 <div align="center">
 <a href="mailto:suyean4504@gmail.com" target="_blank">
@@ -50,5 +51,6 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white?style=for-the-badge&logo=gmail&logoColor=white?style=for-the-badge&logo=JavaScript&logoColor=white)
 </a>
 </div>
+
 
 
