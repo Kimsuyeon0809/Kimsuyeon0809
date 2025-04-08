@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" />
 
-# Education 
-한림대학교 빅데이터 전공, 콘텐츠IT 복수전공 (2021.3 ~ 2025.2)
-한림대학교 NLP Lab 학부연구생 (2024.3 ~ 2025.2)
-한림대학교 NLP Lab 기금연구원 (2025.3 ~ Present)
+## Education 
+한림대학교 빅데이터 전공, 콘텐츠IT 복수전공 (2021.3 ~ 2025.2)  <br/>
+한림대학교 NLP Lab 학부연구생 (2024.3 ~ 2025.2) <br/>
+한림대학교 NLP Lab 기금연구원 (2025.3 ~ Present) <br/>
 
-# Studying...
+## Studying...
 <div align="center">
 
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white?style=for-the-badge&logo=JavaScript&logoColor=white) 
@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 
 </div>
 
-# Paper review
+## Paper review
 <div align="center">
 
 ![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white?style=for-the-badge&logo=JavaScript&logoColor=white)
 </div>
 
-# Contact
+## Contact
 <div align="center">
 
 ![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?style=for-the-badge&logo=JavaScript&logoColor=white)
