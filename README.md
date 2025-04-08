@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsuyeon0809&langs_count=10&layout=compact)](https://github.com/jogilsang/jogilsang)﻿
- </div>
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsuyeon0809&langs_count=10&layout=compact&thems=white)](https://github.com/Kimsuyeon0809)﻿
+</div>
 
 
 
