@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" />
 
 ## Education 
-한림대학교 빅데이터 전공, 콘텐츠IT 복수전공 (2021.3 ~ 2025.2)  <br/>
-한림대학교 NLP Lab 학부연구생 (2024.3 ~ 2025.2) <br/>
 한림대학교 NLP Lab 기금연구원 (2025.3 ~ Present) <br/>
+한림대학교 NLP Lab 학부연구생 (2024.3 ~ 2025.2) <br/>
+한림대학교 빅데이터 전공, 콘텐츠IT 복수전공 (2021.3 ~ 2025.2)  <br/>
 
 ## Studying...
 <div align="center">
