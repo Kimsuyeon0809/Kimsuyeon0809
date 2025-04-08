@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ## Paper review
 <div align="center">
 <a href="https://whip-persimmon-a86.notion.site/paper-review-7d08ed2bd5c849498aa36ccbdcadc02d?pvs=4" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 ![js](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white?style=for-the-badge&logo=JavaScript&logoColor=white)
 </a>
 </div>
